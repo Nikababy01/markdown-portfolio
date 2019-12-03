@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] I love entertainment
+- [ ] My favorite social media outlet is Facebook
+- [ ] My favorite gossip personality is Wendy Williams
