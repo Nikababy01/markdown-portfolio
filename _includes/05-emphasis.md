@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I am a very smart woman.**
+
+*I have an awesome husband.*
+
+**I have a beautiful family that consists of 2 daughters and 2 sons!**
